@@ -1,7 +1,7 @@
 ## Running the project
 1. Add a new file .env to the project root and insert the following entry:
    ```bash
-   REACT_APP_API+KEY=X
+   REACT_APP_API_KEY=X
    ```
    Where X is your API key for the free openweathermap.org API.
 
